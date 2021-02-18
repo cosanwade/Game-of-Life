@@ -108,13 +108,7 @@ void control(){
 				}
 			}
 			
-			/*if(neighbour == 3){
-				tableB[i][j] = 'X';
-			}else if(neighbour == 2 && tableA[i][j] == 'X'){
-				tableB[i][j] = 'X';
-			}else{
-				tableB[i][j] = '-';
-			}*/
+			
 		}
 		
 	}
